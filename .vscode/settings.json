@@ -1,0 +1,7 @@
+{
+    "markdown.marp.themes": [
+        "./style.css"
+    ],
+    "markdown.marp.pptx.editable": "on",
+    "markdown.marp.html": "all"
+}

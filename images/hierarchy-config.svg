@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 140" fill="none">
+  <!-- Root config -->
+  <rect x="55" y="8" width="90" height="26" rx="6" fill="#1B4565"/>
+  <text x="69" y="25" font-size="9" fill="white" font-family="monospace" font-weight="bold">.fixit.toml</text>
+
+  <!-- Connector lines from root -->
+  <line x1="100" y1="34" x2="100" y2="48" stroke="#9CA3AF" stroke-width="1.5"/>
+  <line x1="50" y1="48" x2="150" y2="48" stroke="#9CA3AF" stroke-width="1.5"/>
+  <line x1="50" y1="48" x2="50" y2="58" stroke="#9CA3AF" stroke-width="1.5"/>
+  <line x1="150" y1="48" x2="150" y2="58" stroke="#9CA3AF" stroke-width="1.5"/>
+
+  <!-- Left directory -->
+  <rect x="15" y="58" width="70" height="26" rx="6" fill="#3E9BA4"/>
+  <text x="27" y="75" font-size="9" fill="white" font-family="monospace" font-weight="bold">src/api/</text>
+
+  <!-- Right directory -->
+  <rect x="115" y="58" width="70" height="26" rx="6" fill="#3E9BA4"/>
+  <text x="124" y="75" font-size="9" fill="white" font-family="monospace" font-weight="bold">src/auth/</text>
+
+  <!-- Connector lines to sub-configs -->
+  <line x1="50" y1="84" x2="50" y2="98" stroke="#9CA3AF" stroke-width="1.5"/>
+  <line x1="150" y1="84" x2="150" y2="98" stroke="#9CA3AF" stroke-width="1.5"/>
+
+  <!-- Left sub-config -->
+  <rect x="10" y="98" width="80" height="26" rx="6" fill="#E8F4FD" stroke="#3E9BA4" stroke-width="1.5"/>
+  <text x="20" y="115" font-size="8" fill="#1B4565" font-family="monospace" font-weight="bold">.fixit.toml</text>
+
+  <!-- Right sub-config -->
+  <rect x="110" y="98" width="80" height="26" rx="6" fill="#E8F4FD" stroke="#3E9BA4" stroke-width="1.5"/>
+  <text x="120" y="115" font-size="8" fill="#1B4565" font-family="monospace" font-weight="bold">.fixit.toml</text>
+</svg>

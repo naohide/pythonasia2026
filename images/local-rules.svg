@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 140" fill="none">
+  <!-- Folder -->
+  <path d="M25 35 L25 115 Q25 120 30 120 L170 120 Q175 120 175 115 L175 45 Q175 40 170 40 L100 40 L90 28 L30 28 Q25 28 25 35 Z" fill="#E8F4FD" stroke="#1B4565" stroke-width="1.5"/>
+  <!-- Folder tab highlight -->
+  <path d="M25 35 L25 28 Q25 28 30 28 L90 28 L100 40 L25 40 Z" fill="#D0E8F5" stroke="none"/>
+
+  <!-- Files inside folder -->
+  <rect x="40" y="54" width="70" height="16" rx="4" fill="#1B4565"/>
+  <text x="48" y="65" font-size="9" fill="white" font-family="monospace" font-weight="bold">rule_1.py</text>
+
+  <rect x="40" y="76" width="70" height="16" rx="4" fill="#1B4565"/>
+  <text x="48" y="87" font-size="9" fill="white" font-family="monospace" font-weight="bold">rule_2.py</text>
+
+  <rect x="40" y="98" width="70" height="16" rx="4" fill="#1B4565"/>
+  <text x="48" y="109" font-size="9" fill="white" font-family="monospace" font-weight="bold">rule_3.py</text>
+
+  <!-- Location pin icon -->
+  <g transform="translate(142, 82)">
+    <path d="M0 -20 C-12 -20 -18 -10 -18 -2 C-18 12 0 28 0 28 C0 28 18 12 18 -2 C18 -10 12 -20 0 -20 Z" fill="#3E9BA4" opacity="0.9"/>
+    <circle cx="0" cy="-3" r="7" fill="white"/>
+    <circle cx="0" cy="-3" r="3" fill="#3E9BA4"/>
+  </g>
+</svg>

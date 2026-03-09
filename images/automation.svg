@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 140" fill="none">
+  <!-- Human to machine transition -->
+  <!-- Person icon -->
+  <circle cx="45" cy="45" r="14" fill="#9CA3AF"/>
+  <path d="M25 95 C25 75 65 75 65 95" fill="#9CA3AF"/>
+
+  <!-- Arrow -->
+  <path d="M78 65 L118 65" stroke="#3E9BA4" stroke-width="3" stroke-linecap="round"/>
+  <path d="M112 58 L120 65 L112 72" stroke="#3E9BA4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Robot / gear icon -->
+  <rect x="130" y="30" width="50" height="45" rx="8" fill="#1B4565"/>
+  <rect x="135" y="80" width="40" height="25" rx="5" fill="#1B4565"/>
+  <!-- Robot eyes -->
+  <circle cx="145" cy="50" r="6" fill="#3E9BA4"/>
+  <circle cx="165" cy="50" r="6" fill="#3E9BA4"/>
+  <circle cx="145" cy="50" r="3" fill="white"/>
+  <circle cx="165" cy="50" r="3" fill="white"/>
+  <!-- Robot mouth -->
+  <rect x="142" y="62" width="26" height="4" rx="2" fill="#3E9BA4"/>
+  <!-- Antenna -->
+  <line x1="155" y1="30" x2="155" y2="18" stroke="#1B4565" stroke-width="2.5"/>
+  <circle cx="155" cy="15" r="5" fill="#3E9BA4"/>
+
+  <!-- Speed lines -->
+  <line x1="125" y1="110" x2="185" y2="110" stroke="#3E9BA4" stroke-width="1.5" opacity="0.5"/>
+  <line x1="130" y1="116" x2="180" y2="116" stroke="#3E9BA4" stroke-width="1.5" opacity="0.3"/>
+  <line x1="135" y1="122" x2="175" y2="122" stroke="#3E9BA4" stroke-width="1.5" opacity="0.2"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 140" fill="none">
+  <!-- Checklist / objective review -->
+  <rect x="30" y="10" width="140" height="120" rx="12" fill="#E8F4FD" stroke="#1B4565" stroke-width="2"/>
+  <!-- Lines with checkmarks -->
+  <circle cx="60" cy="40" r="10" fill="#3E9BA4"/>
+  <path d="M55 40 L58 43 L65 36" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="80" y="35" width="70" height="8" rx="4" fill="#1B4565" opacity="0.3"/>
+
+  <circle cx="60" cy="70" r="10" fill="#3E9BA4"/>
+  <path d="M55 70 L58 73 L65 66" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="80" y="65" width="55" height="8" rx="4" fill="#1B4565" opacity="0.3"/>
+
+  <circle cx="60" cy="100" r="10" fill="#3E9BA4"/>
+  <path d="M55 100 L58 103 L65 96" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="80" y="95" width="62" height="8" rx="4" fill="#1B4565" opacity="0.3"/>
+</svg>

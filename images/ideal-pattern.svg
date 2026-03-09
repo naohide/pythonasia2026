@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 140" fill="none">
+  <!-- Code pattern / template enforcement -->
+  <rect x="20" y="10" width="160" height="120" rx="12" fill="#1B4565"/>
+  <!-- Terminal header dots -->
+  <circle cx="38" cy="26" r="4" fill="#EF4444"/>
+  <circle cx="52" cy="26" r="4" fill="#F59E0B"/>
+  <circle cx="66" cy="26" r="4" fill="#10B981"/>
+  <!-- Code lines -->
+  <rect x="36" y="42" width="40" height="6" rx="3" fill="#3E9BA4"/>
+  <rect x="82" y="42" width="60" height="6" rx="3" fill="#6B7280"/>
+
+  <rect x="46" y="56" width="50" height="6" rx="3" fill="#F59E0B" opacity="0.7"/>
+  <rect x="102" y="56" width="45" height="6" rx="3" fill="#6B7280"/>
+
+  <rect x="46" y="70" width="35" height="6" rx="3" fill="#F59E0B" opacity="0.7"/>
+  <rect x="87" y="70" width="55" height="6" rx="3" fill="#6B7280"/>
+
+  <rect x="36" y="84" width="45" height="6" rx="3" fill="#3E9BA4"/>
+
+  <!-- Checkmark overlay -->
+  <circle cx="155" cy="105" r="18" fill="#10B981"/>
+  <path d="M146 105 L152 111 L164 99" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
