@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 140" fill="none">
+  <!-- Magnifying glass over code -->
+  <rect x="20" y="15" width="120" height="90" rx="8" fill="#E8F4FD" stroke="#1B4565" stroke-width="1.5"/>
+  <!-- Code lines -->
+  <rect x="32" y="30" width="50" height="5" rx="2.5" fill="#1B4565" opacity="0.3"/>
+  <rect x="32" y="42" width="70" height="5" rx="2.5" fill="#EF4444" opacity="0.5"/>
+  <rect x="32" y="54" width="55" height="5" rx="2.5" fill="#1B4565" opacity="0.3"/>
+  <rect x="32" y="66" width="80" height="5" rx="2.5" fill="#EF4444" opacity="0.5"/>
+  <rect x="32" y="78" width="45" height="5" rx="2.5" fill="#1B4565" opacity="0.3"/>
+  <!-- Magnifying glass -->
+  <circle cx="145" cy="85" r="30" fill="none" stroke="#3E9BA4" stroke-width="3"/>
+  <line x1="166" y1="107" x2="185" y2="126" stroke="#3E9BA4" stroke-width="4" stroke-linecap="round"/>
+  <!-- Warning icon in glass -->
+  <path d="M138 78 L145 66 L152 78 Z" fill="#F59E0B"/>
+  <line x1="145" y1="71" x2="145" y2="75" stroke="white" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="145" cy="77" r="1" fill="white"/>
+</svg>
